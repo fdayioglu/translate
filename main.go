@@ -18,7 +18,7 @@ import (
 	"strconv"
 	"errors"
 	"github.com/codegangsta/cli"
-	"github.com/jmcvetta/napping"
+	"gopkg.in/jmcvetta/napping.v1"
 	goproperties "github.com/dmotylev/goproperties"
 )
 
